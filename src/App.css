@@ -1,0 +1,28 @@
+body {
+  background-color: rgb(30, 161, 221);
+  text-align: center;
+  padding: 20px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+input,
+button {
+  padding: 20px;
+}
+
+.list {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  padding: 40px;
+}
+
+.card {
+  background-color: #fff;
+  box-shadow: 0 2px 4px #b1b0b0;
+  padding: 20px;
+  max-width: 200px;
+  border-radius: 12px;
+  text-align: center;
+}
