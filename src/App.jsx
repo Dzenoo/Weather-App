@@ -1,6 +1,5 @@
 import React, { useState } from "react";
 import "./App.css";
-
 const API_KEY = "6dbe1a97e872bf79ee409ba9b2378c53";
 const URL = "https://api.openweathermap.org/data/2.5";
 
