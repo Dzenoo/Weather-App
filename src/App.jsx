@@ -8,7 +8,7 @@ const App = () => {
   const [data, setdata] = useState();
   
   //   const [isLoading, setisLoading] = useState(false);
-  
+ 
   //   useEffect(() => {
   //     setisLoading(true);
   //     const fetchWeather = async () => {
