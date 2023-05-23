@@ -5,6 +5,7 @@ const URL = "https://api.openweathermap.org/data/2.5";
 const App = () => {
   const [city, setcity] = useState("Novi Pazar");
   const [data, setdata] = useState();
+
   
   //   const [isLoading, setisLoading] = useState(false);
  
